@@ -23,3 +23,8 @@ The goal of this project is to design and build an Expense Tracker web applicati
 1. Clone this repository:
    ```bash
    git clone https://github.com/Akhileshtadake/Expense-Tracker.git
+   
+expense-tracker/
+├── index.html    # Main HTML file
+├── style.css     # Stylesheet
+└── script.js     # JavaScript logic
